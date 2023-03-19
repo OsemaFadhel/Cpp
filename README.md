@@ -23,8 +23,8 @@ All projects are numbered by first made. (Follow through number to learn better 
 |16| [Break and Continue](https://github.com/OsemaFadhel/Cpp/tree/main/16.%20Break%20and%20Continue) | C++ |
 |17| [Nested Loops](https://github.com/OsemaFadhel/Cpp/tree/main/17.%20Nested%20Loops) | C++ |
 |18| [Random event generator](https://github.com/OsemaFadhel/Cpp/tree/main/18.%20Random%20event%20generator) | C++ |
-|19| [Number Guessing game](Number Guessing game) | C++ |
-|20| [Using defined functions](Using defined functions) | C++ |
+|19| [Number Guessing game](https://github.com/OsemaFadhel/Cpp/tree/main/19.%20Number%20Guessing%20game) | C++ |
+|20| [Using defined functions](https://github.com/OsemaFadhel/Cpp/tree/main/20.%20Using%20defined%20functions) | C++ |
 |21| [Return keyword](https://github.com/OsemaFadhel/Cpp/tree/main/21.%20Return%20keyword) | C++ |
 |22| [Overload functions](https://github.com/OsemaFadhel/Cpp/tree/main/22.%20Overload%20functions) | C++ |
 |23| [Variable scope](https://github.com/OsemaFadhel/Cpp/tree/main/23.%20Variable%20scope) | C++ |
